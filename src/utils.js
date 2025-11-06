@@ -5,7 +5,7 @@ import { words } from "./words"
 export function getFarewellText(language) {
     const options = [
         `Farewell, ${language}`,
-        `Adios, ${language}`,
+        `Merci, ${language}`,
         `R.I.P., ${language}`,
         `We'll miss you, ${language}`,
         `Oh no, not ${language}!`,
